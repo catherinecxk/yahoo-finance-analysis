@@ -127,6 +127,6 @@ How to Run
 1. Instal dependcies:
 pip install pandas matplotlib openpyxl
 
-2. Run the analysis
+2. Run the analysis:
 python main.py
 
