@@ -48,3 +48,85 @@ Month – extracted from Date
 
 Daily Return – percentage change in closing price
 
+
+Analyses Performed
+1. Price Trends Over Time
+
+The closing price was plotted across all dates to visualize long-term growth, drawdowns, and volatility.
+
+This reveals:
+
+Market trends
+
+Bull and bear periods
+
+Large price shocks
+
+2. Average Price by Year
+
+The mean closing price was calculated for each year to measure long-term performance.
+
+This answers:
+
+Did the asset become more valuable over time?
+
+3. Volatility by Year
+
+Standard deviation of daily prices was computed for each year.
+
+Higher volatility indicates:
+
+More risk
+
+Larger daily price swings
+
+Unstable market conditions
+
+4. Trading Volume Analysis
+
+Average daily trading volume was computed by year to measure investor interest and liquidity.
+
+Large spikes typically occur during:
+
+Market crashes
+
+Earnings cycles
+
+Major news events
+
+5. Best and Worst Trading Days
+
+Daily percentage returns were calculated to identify:
+
+Largest one-day gains
+
+Largest one-day losses
+
+This is used in:
+
+Risk analysis
+
+Stress testing
+
+Portfolio management
+
+
+
+Tech Stack
+
+Python
+
+Pandas
+
+Matplotlib
+
+Jupyter Notebook / VS Code
+
+
+How to Run
+1. Instal dependcies:
+pip install pandas matplotlib openpyxl
+
+2. Run the analysis
+python main.py
+
